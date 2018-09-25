@@ -1,2 +1,3 @@
 Reference
 read bvh file code: https://github.com/wspr/bvh-matlab
+A paper on Motion Retargetting: http://delivery.acm.org/10.1145/290000/280820/p33-gleicher.pdf?ip=137.189.90.241&id=280820&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2E63D3CA449C1BD759%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1537887147_0d0ac840d6df59b512bcd3eabc9c4d13
